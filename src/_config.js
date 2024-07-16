@@ -2,9 +2,9 @@ export const process = {
 	dev: true,
 };
 
-export const site = {
-	home: process.dev ? 'http://localhost:5173/' : 'http://test.ru',
-};
+// export const site = {
+// 	home: process.dev ? 'http://localhost:5173/' : 'http://test.ru',
+// };
 
 export const app = {
 	title: 'Template',

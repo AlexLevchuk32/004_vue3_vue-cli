@@ -8,6 +8,8 @@
 		<div class="wrapper-content">
 			<div class="container">
 				<RouterView />
+				<!-- Посмотреть весь список параметров Роутера -->
+				<!-- <p>{{ this.$router }}</p> -->
 			</div>
 		</div>
 		<Footer />
